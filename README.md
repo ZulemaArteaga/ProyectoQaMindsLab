@@ -1,7 +1,3 @@
-[toc]
-
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
-
 ## INTRODUCCIÓN
 
 El presente proyecto fue creado en respuesta a una solicitud de Blanca Moreno, quien se desempeña como maestra en la plataforma educativa https://www.qamindslab.com/ Este proyecto fue requerido como parte del bootcamp "Testing desde cero".
@@ -22,7 +18,7 @@ Con este proyecto, se busca proporcionar una experiencia práctica a los estudia
 
 ## Etsy
 
-<img src="../../_resources/Etsy_logo.svg" alt="Etsy_logo.svg" width="216" height="108" class="jop-noMdConv">
+<img src="../../blob/master/_resources/Etsy_logo.svg" alt="Etsy_logo.svg" width="216" height="108" class="jop-noMdConv">
 
 Etsy es una plataforma de comercio electrónico que se centra en la venta de productos hechos a mano, retro ("vintage") y únicos. Fue fundada en el año 2005 en Brooklyn, Nueva York
 
@@ -40,7 +36,7 @@ Para el presente proyecto, me enfocaré únicamente en los siguientes tres eleme
     -"Clothing & Shoes"
     -"Home & Living"
 
-<img src="../../_resources/Screenshot%202023-04-22%20at%201.42.47%20PM.png" alt="Screenshot 2023-04-22 at 1.42.47 PM.png" width="1249" height="90" class="jop-noMdConv">
+<img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%201.42.47%20PM.png" alt="Screenshot 2023-04-22 at 1.42.47 PM.png" width="1249" height="90" class="jop-noMdConv">
 
 *Las categorías "Wedding & Party", "Toys & Entretainment", "Art & Collectibles", "Craft Supplies" y "Gifts & Gift Cards" no son contempladas en el presente proyecto.*
 
@@ -144,20 +140,20 @@ Por tal motivo adjunto aquí los bosquejos ("Mockup") de como debe visualizarse 
 
 ##### Inicio de sesión "Sign in"
 
-<img src="../../_resources/Screenshot%202023-04-22%20at%202.33.11%20PM.png" alt="Screenshot 2023-04-22 at 2.33.11 PM.png" width="350" height="602" class="jop-noMdConv">
+<img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.33.11%20PM.png" alt="Screenshot 2023-04-22 at 2.33.11 PM.png" width="350" height="602" class="jop-noMdConv">
 
 <div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
 
 
 ##### Registro "Register"
 
-<img src="../../_resources/Screenshot%202023-04-22%20at%202.33.22%20PM.png" alt="Screenshot 2023-04-22 at 2.33.22 PM.png" width="350" height="627" class="jop-noMdConv">
+<img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.33.22%20PM.png" alt="Screenshot 2023-04-22 at 2.33.22 PM.png" width="350" height="627" class="jop-noMdConv">
 
 <div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
 
 ##### Carrito de compras con productos listos para compra
 
-<img src="../../_resources/Screenshot%202023-04-22%20at%202.32.20%20PM.png" alt="Screenshot 2023-04-22 at 2.32.20 PM.png" width="568" height="340" class="jop-noMdConv">
+<img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.32.20%20PM.png" alt="Screenshot 2023-04-22 at 2.32.20 PM.png" width="568" height="340" class="jop-noMdConv">
 
 <div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
 
@@ -210,5 +206,5 @@ Característica: Registro de cuenta
         |                       |        |                   |    No Se   |
         |testingut3st@gmail.com | c# @#$ | Mycontraseña#1239 |    No Se   |
         | testingut3st@gmail.com| s      | sfs               |    No Se   |
-        | testingut3st@gmail    | 😜     | 🤪🤓              |    No Se   |
-``
+        | testingut3st@gmail    | 😜     | 🤪🤓             |    No Se   |
+```
