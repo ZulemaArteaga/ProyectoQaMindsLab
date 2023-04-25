@@ -14,7 +14,7 @@ El objetivo principal del proyecto es analizar el sitio web Etsy.com y desarroll
 
 Con este proyecto, se busca proporcionar una experiencia práctica a los estudiantes del bootcamp, permitiéndonos aplicar los conocimientos teóricos en un entorno de trabajo real.
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ## Etsy
 
@@ -40,7 +40,7 @@ Para el presente proyecto, me enfocaré únicamente en los siguientes tres eleme
 
 *Las categorías "Wedding & Party", "Toys & Entretainment", "Art & Collectibles", "Craft Supplies" y "Gifts & Gift Cards" no son contempladas en el presente proyecto.*
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ## AMBIENTE DE PRUEBA, NAVEGADORES Y SISTEMAS OPERATIVOS
 
@@ -51,17 +51,17 @@ Este análisis está diseñado tomando en cuenta que las pruebas se realizarían
 - Versiones de los navegadores: Ultima versión y la versión inmediatamente anterior.
 - Sistema Operativo: Windows 11, Windows 10, Mac OS Ventura y Monterrey.
 
-![Screenshot 2023-04-25 at 11.22.54 AM.png](../../_resources/Screenshot%202023-04-25%20at%2011.22.54%20AM.png)
+![Screenshot 2023-04-25 at 11.22.54 AM.png](../../blob/master/_resources/Screenshot%202023-04-25%20at%2011.22.54%20AM.png)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ## PAÍS, IDIOMA Y MONEDA DE LA PÁGINA WEB
 
 El presente análisis está diseñado para realizarse en la página web de Estados Unidos de America, en el idioma Inglés y con dólares Estadounidenses.
 
-![Screenshot 2023-04-19 at 5.38.53 PM.png](../../_resources/Screenshot%202023-04-19%20at%205.38.53%20PM.png)
+![Screenshot 2023-04-19 at 5.38.53 PM.png](../../blob/master/_resources/Screenshot%202023-04-19%20at%205.38.53%20PM.png)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ## ESTRATEGIAS DE PRUEBA
 
@@ -77,9 +77,9 @@ Para el presente análisis primeramente se realizó una prueba exploratoria para
 
 Adjunto mapa del sitio web:
 
-![Screenshot 2023-04-24 at 11.58.12 AM.png](../../_resources/Screenshot%202023-04-24%20at%2011.58.12%20AM.png)
+![Screenshot 2023-04-24 at 11.58.12 AM.png](../../blob/master/_resources/Screenshot%202023-04-24%20at%2011.58.12%20AM.png)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ##### Observaciones y sugerencias encontradas durante la prueba exploratoria
 
@@ -98,7 +98,7 @@ Adjunto mapa del sitio web:
 
 Los escenarios a considerar son los siguientes:
 
-![Screenshot 2023-04-25 at 11.49.50 AM.png](../../_resources/Screenshot%202023-04-25%20at%2011.49.50%20AM.png)
+![Screenshot 2023-04-25 at 11.49.50 AM.png](../../blob/master/_resources/Screenshot%202023-04-25%20at%2011.49.50%20AM.png)
 
 
 ##### Riesgos
@@ -108,7 +108,7 @@ Los riesgos asociados con este proyecto de análisis son:
 - Que se realicen cambios en el sitio.
 - El rendimiento del sitio en momentos de sobrecarga de usuarios.
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ##### Tablas de decisiones y matriz de prueba
 
@@ -116,46 +116,46 @@ Para poder diseñar los casos de prueba se realizaron las siguientes tablas de d
 
 ***Tablas de decisiones para el módulo de Inicio de sesión, Registro de cuenta nueva y Recuperación de contraseña***
 
-![Screenshot 2023-04-25 at 11.28.02 AM.png](../../_resources/Screenshot%202023-04-25%20at%2011.28.02%20AM.png)
+![Screenshot 2023-04-25 at 11.28.02 AM.png](../../blob/master/_resources/Screenshot%202023-04-25%20at%2011.28.02%20AM.png)
 
 ***Matriz de prueba para la contraseña***
 
-![Screenshot 2023-04-25 at 11.29.02 AM.png](../../_resources/Screenshot%202023-04-25%20at%2011.29.02%20AM.png)
+![Screenshot 2023-04-25 at 11.29.02 AM.png](../../blob/master/_resources/Screenshot%202023-04-25%20at%2011.29.02%20AM.png)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ### Análisis de Prueba Visual
 
 Se implementa esta estrategia para evaluar la apariencia visual y el comportamiento de la interfaz de usuario UI
 
-![Screenshot 2023-04-24 at 2.20.15 PM.png](../../_resources/Screenshot%202023-04-24%20at%202.20.15%20PM.png)
+![Screenshot 2023-04-24 at 2.20.15 PM.png](../../blob/master/_resources/Screenshot%202023-04-24%20at%202.20.15%20PM.png)
 
 Por tal motivo adjunto aquí los bosquejos ("Mockup") de como debe visualizarse cada módulo.
 
 ***Barra de búsqueda***
 
-![Screenshot 2023-04-22 at 1.42.47 PM.png](../../_resources/Screenshot%202023-04-22%20at%201.42.47%20PM-1.png)
+![Screenshot 2023-04-22 at 1.42.47 PM.png](../../blob/master/_resources/Screenshot%202023-04-22%20at%201.42.47%20PM-1.png)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ##### Inicio de sesión "Sign in"
 
 <img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.33.11%20PM.png" alt="Screenshot 2023-04-22 at 2.33.11 PM.png" width="350" height="602" class="jop-noMdConv">
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 
 ##### Registro "Register"
 
 <img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.33.22%20PM.png" alt="Screenshot 2023-04-22 at 2.33.22 PM.png" width="350" height="627" class="jop-noMdConv">
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ##### Carrito de compras con productos listos para compra
 
 <img src="../../blob/master/_resources/Screenshot%202023-04-22%20at%202.32.20%20PM.png" alt="Screenshot 2023-04-22 at 2.32.20 PM.png" width="568" height="340" class="jop-noMdConv">
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 
 ### Análisis de Prueba de Usabilidad
@@ -176,7 +176,7 @@ Para lo cual se especifican los casos de prueba a realizarse por cada escenario:
 
 [Escenarios y Casos de Prueba](https://docs.google.com/spreadsheets/d/1xiVZu4tYAd79q1J7TeGQXYOPXV-mN_6BJBIY55DFF3Y/edit?usp=sharing)
 
-<div style="page-break-after: always; visibility: hidden;">\\pagebreak</div>
+
 
 ## BONUS: PRACTICANDO LA SINTAXIS DE GHERKIN PARA EL ESCENARIO DE REGISTRO DE CUENTA
 
